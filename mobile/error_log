@@ -1,0 +1,94 @@
+[17-Feb-2023 17:56:22 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/chaarqvc/shivalilogistics.in/erp/mobile/config.php on line 9
+[17-Feb-2023 21:33:21 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/chaarqvc/shivalilogistics.in/erp/mobile/config.php on line 9
+[17-Feb-2023 21:36:21 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/chaarqvc/shivalilogistics.in/erp/mobile/checklogin.php on line 13
+[17-Feb-2023 21:36:21 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/chaarqvc/shivalilogistics.in/erp/mobile/checklogin.php on line 15
+[17-Feb-2023 10:18:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'voucher_id' (T_STRING) in /home1/chaarqvc/shivalilogistics.in/erp/mobile/todaybilltyadv.php on line 165
+[17-Feb-2023 10:18:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'voucher_id' (T_STRING) in /home1/chaarqvc/shivalilogistics.in/erp/mobile/todaybilltyadv.php on line 165
+[21-Feb-2023 06:46:27 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[21-Feb-2023 06:46:27 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[24-Feb-2023 11:39:24 Asia/Kolkata] PHP Warning:  include(dbconnect.php): failed to open stream: No such file or directory in /home1/chaarqvc/shivalilogistics.in/erp/mobile/dashboard.php on line 3
+[24-Feb-2023 11:39:24 Asia/Kolkata] PHP Warning:  include(dbconnect.php): failed to open stream: No such file or directory in /home1/chaarqvc/shivalilogistics.in/erp/mobile/dashboard.php on line 3
+[24-Feb-2023 11:39:24 Asia/Kolkata] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/chaarqvc/shivalilogistics.in/erp/mobile/dashboard.php on line 3
+[24-Feb-2023 11:39:24 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home1/chaarqvc/shivalilogistics.in/erp/mobile/dashboard.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/chaarqvc/shivalilogistics.in/erp/mobile/dashboard.php on line 11
+[24-Feb-2023 11:39:26 Asia/Kolkata] PHP Warning:  include(dbconnect.php): failed to open stream: No such file or directory in /home1/chaarqvc/shivalilogistics.in/erp/mobile/dashboard.php on line 3
+[24-Feb-2023 11:39:26 Asia/Kolkata] PHP Warning:  include(dbconnect.php): failed to open stream: No such file or directory in /home1/chaarqvc/shivalilogistics.in/erp/mobile/dashboard.php on line 3
+[24-Feb-2023 11:39:26 Asia/Kolkata] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/chaarqvc/shivalilogistics.in/erp/mobile/dashboard.php on line 3
+[24-Feb-2023 11:39:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home1/chaarqvc/shivalilogistics.in/erp/mobile/dashboard.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/chaarqvc/shivalilogistics.in/erp/mobile/dashboard.php on line 11
+[24-Feb-2023 11:39:27 Asia/Kolkata] PHP Warning:  include(dbconnect.php): failed to open stream: No such file or directory in /home1/chaarqvc/shivalilogistics.in/erp/mobile/dashboard.php on line 3
+[24-Feb-2023 11:39:27 Asia/Kolkata] PHP Warning:  include(dbconnect.php): failed to open stream: No such file or directory in /home1/chaarqvc/shivalilogistics.in/erp/mobile/dashboard.php on line 3
+[24-Feb-2023 11:39:27 Asia/Kolkata] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/chaarqvc/shivalilogistics.in/erp/mobile/dashboard.php on line 3
+[24-Feb-2023 11:39:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home1/chaarqvc/shivalilogistics.in/erp/mobile/dashboard.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/chaarqvc/shivalilogistics.in/erp/mobile/dashboard.php on line 11
+[24-Feb-2023 11:39:41 Asia/Kolkata] PHP Warning:  include(dbconnect.php): failed to open stream: No such file or directory in /home1/chaarqvc/shivalilogistics.in/erp/mobile/dashboard.php on line 3
+[24-Feb-2023 11:39:41 Asia/Kolkata] PHP Warning:  include(dbconnect.php): failed to open stream: No such file or directory in /home1/chaarqvc/shivalilogistics.in/erp/mobile/dashboard.php on line 3
+[24-Feb-2023 11:39:41 Asia/Kolkata] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/chaarqvc/shivalilogistics.in/erp/mobile/dashboard.php on line 3
+[24-Feb-2023 11:39:41 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function getvalfield() on null in /home1/chaarqvc/shivalilogistics.in/erp/mobile/dashboard.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/chaarqvc/shivalilogistics.in/erp/mobile/dashboard.php on line 11
+[24-Feb-2023 00:14:20 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[24-Feb-2023 00:14:20 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[24-Feb-2023 08:07:59 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[24-Feb-2023 08:07:59 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[28-Feb-2023 03:04:59 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[28-Feb-2023 03:04:59 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[01-Mar-2023 02:52:55 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[01-Mar-2023 02:52:55 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[02-Mar-2023 05:08:00 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[02-Mar-2023 05:08:00 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[02-Mar-2023 05:51:20 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[02-Mar-2023 05:51:20 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[03-Mar-2023 01:10:04 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[03-Mar-2023 01:10:04 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[06-Mar-2023 08:30:13 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[06-Mar-2023 08:30:13 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[14-Mar-2023 00:48:35 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[14-Mar-2023 00:48:35 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[14-Mar-2023 01:39:41 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[14-Mar-2023 01:39:41 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[18-Mar-2023 02:31:18 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[18-Mar-2023 02:31:18 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[18-Mar-2023 02:34:46 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[18-Mar-2023 02:34:46 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[18-Mar-2023 03:25:41 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[18-Mar-2023 03:25:41 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[25-Mar-2023 03:11:12 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[25-Mar-2023 03:11:12 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[28-Mar-2023 06:19:22 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[28-Mar-2023 06:19:22 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[03-Apr-2023 02:30:18 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[03-Apr-2023 02:30:18 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[04-Apr-2023 02:31:27 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[04-Apr-2023 02:31:27 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[06-Apr-2023 09:44:22 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[06-Apr-2023 09:44:22 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[11-Apr-2023 00:34:42 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[11-Apr-2023 00:34:42 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[13-Apr-2023 01:16:24 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[13-Apr-2023 01:16:24 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[13-Apr-2023 07:20:41 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[13-Apr-2023 07:20:41 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[15-Apr-2023 05:54:00 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[15-Apr-2023 05:54:00 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[16-Apr-2023 08:12:29 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[16-Apr-2023 08:12:29 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[18-Apr-2023 03:02:15 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[18-Apr-2023 03:02:15 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[01-Jun-2023 07:25:05 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[01-Jun-2023 07:25:05 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[22-Jun-2023 05:18:44 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[22-Jun-2023 05:18:44 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[27-Jun-2023 02:33:44 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[27-Jun-2023 02:33:44 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[27-Jun-2023 06:25:22 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[27-Jun-2023 06:25:22 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3
+[29-Jun-2023 00:55:22 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 2
+[29-Jun-2023 00:55:22 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/chaarqvc/shivalilogistics.in/erp/mobile/logout.php on line 3

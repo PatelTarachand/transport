@@ -1,0 +1,100 @@
+[16-Nov-2022 11:18:49 Asia/Kolkata] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/rashmfyw/shivalilogistics.in/erp/ajax/delete.php on line 13
+[28-Feb-2023 12:12:35 Asia/Kolkata] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/chaarqvc/shivalilogistics.in/erp/ajax/delete.php on line 15
+[12-Jun-2023 12:00:02 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/chaarqvc/shivalilogistics.in/erp/dbinfo.php on line 20
+[12-Jun-2023 12:00:02 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[12-Jun-2023 12:00:02 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[12-Jun-2023 12:00:02 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[12-Jun-2023 12:00:02 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[12-Jun-2023 12:00:02 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[12-Jun-2023 12:00:02 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[12-Jun-2023 12:00:02 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[12-Jun-2023 12:00:02 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[12-Jun-2023 12:00:03 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/chaarqvc/shivalilogistics.in/erp/dbinfo.php on line 20
+[12-Jun-2023 12:00:03 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[12-Jun-2023 12:00:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[12-Jun-2023 12:00:03 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[12-Jun-2023 12:00:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[12-Jun-2023 12:00:03 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/ajax/add_bill_emami.php on line 8
+[12-Jun-2023 12:00:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/ajax/add_bill_emami.php on line 9
+[12-Jun-2023 12:00:03 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[12-Jun-2023 12:00:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[12-Jun-2023 12:00:03 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[12-Jun-2023 12:00:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[12-Jun-2023 12:00:03 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[12-Jun-2023 12:00:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[12-Jun-2023 12:00:03 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[12-Jun-2023 12:00:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[13-Jun-2023 13:48:22 Asia/Kolkata] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/chaarqvc/shivalilogistics.in/erp/dbinfo.php on line 20
+[13-Jun-2023 13:48:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[13-Jun-2023 13:48:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[13-Jun-2023 13:48:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[13-Jun-2023 13:48:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[13-Jun-2023 13:48:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/ajax/add_bill_emami.php on line 8
+[13-Jun-2023 13:48:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/ajax/add_bill_emami.php on line 9
+[13-Jun-2023 13:48:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[13-Jun-2023 13:48:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[13-Jun-2023 13:48:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[13-Jun-2023 13:48:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[13-Jun-2023 13:48:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[13-Jun-2023 13:48:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[13-Jun-2023 13:48:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[13-Jun-2023 13:48:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[22-Jun-2023 12:22:28 Asia/Kolkata] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/chaarqvc/shivalilogistics.in/erp/dbinfo.php on line 20
+[22-Jun-2023 12:22:28 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[22-Jun-2023 12:22:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[22-Jun-2023 12:22:28 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[22-Jun-2023 12:22:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[22-Jun-2023 12:22:28 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[22-Jun-2023 12:22:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[22-Jun-2023 12:22:28 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[22-Jun-2023 12:22:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[03-Jul-2023 11:32:26 Asia/Kolkata] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/chaarqvc/shivalilogistics.in/erp/dbinfo.php on line 20
+[03-Jul-2023 11:32:26 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[03-Jul-2023 11:32:26 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[03-Jul-2023 11:32:26 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[03-Jul-2023 11:32:26 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[03-Jul-2023 11:32:26 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/ajax/add_bill_emami.php on line 8
+[03-Jul-2023 11:32:26 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/ajax/add_bill_emami.php on line 9
+[03-Jul-2023 11:32:26 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[03-Jul-2023 11:32:26 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[03-Jul-2023 11:32:26 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[03-Jul-2023 11:32:26 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[03-Jul-2023 11:32:26 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[03-Jul-2023 11:32:26 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[03-Jul-2023 11:32:26 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[03-Jul-2023 11:32:26 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[03-Jul-2023 11:32:28 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/chaarqvc/shivalilogistics.in/erp/dbinfo.php on line 20
+[03-Jul-2023 11:32:28 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[03-Jul-2023 11:32:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[03-Jul-2023 11:32:28 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[03-Jul-2023 11:32:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[03-Jul-2023 11:32:28 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[03-Jul-2023 11:32:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[03-Jul-2023 11:32:28 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[03-Jul-2023 11:32:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[07-Sep-2023 12:21:12 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/chaarqvc/shivalilogistics.in/erp/dbinfo.php on line 20
+[07-Sep-2023 12:21:12 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[07-Sep-2023 12:21:12 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[07-Sep-2023 12:21:12 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[07-Sep-2023 12:21:12 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[07-Sep-2023 12:21:12 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[07-Sep-2023 12:21:12 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[07-Sep-2023 12:21:12 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[07-Sep-2023 12:21:12 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[07-Sep-2023 12:21:34 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/chaarqvc/shivalilogistics.in/erp/dbinfo.php on line 20
+[07-Sep-2023 12:21:34 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[07-Sep-2023 12:21:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[07-Sep-2023 12:21:34 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[07-Sep-2023 12:21:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[07-Sep-2023 12:21:34 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/ajax/add_bill_emami.php on line 8
+[07-Sep-2023 12:21:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/ajax/add_bill_emami.php on line 9
+[07-Sep-2023 12:21:34 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[07-Sep-2023 12:21:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[07-Sep-2023 12:21:34 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[07-Sep-2023 12:21:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[07-Sep-2023 12:21:34 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[07-Sep-2023 12:21:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[07-Sep-2023 12:21:34 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 779
+[07-Sep-2023 12:21:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home1/chaarqvc/shivalilogistics.in/erp/lib/getval.php on line 780
+[28-Feb-2024 05:42:23 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erpkamal/admin/dbconnect.php on line 2
+[28-Feb-2024 05:42:27 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/chaarqvc/shivalilogistics.in/erpkamal/admin/dbconnect.php on line 2
