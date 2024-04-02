@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/aioesopg/transport.itmingo.in/
+    - export DEPLOYPATH=/home/aioesopg/transport.itmingo.com/
     - /bin/cp * $DEPLOYPATH
